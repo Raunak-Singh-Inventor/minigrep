@@ -2,6 +2,11 @@
 
 Minigrep will **find** a query string in a file.
 
-To **test** it out, clone the project and run `cargo run nobody poem.txt`
+To **test** it out, clone the project and run `cargo run body poem.txt`
 
-Your **output** will be: `INSERT OUTPUT`
+Your **output** will be: 
+```
+I'm nobody! Who are you?
+Are you nobody, too?
+How dreary to be somebody!
+```
